@@ -75,5 +75,7 @@ else:
 ```
 
 ### Output:
+![Uploading image.png…]()
 
 ### Result:
+Thus, To perform Web Scraping on SnapDeal using (beautifulsoup) Python has been executed successfully.
